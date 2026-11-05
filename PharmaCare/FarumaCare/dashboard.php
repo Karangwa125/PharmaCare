@@ -32,8 +32,7 @@ try{
     //ExpiringSoon
 
 
-    $stmt = $pdo->prepare("SELECT COUNT(*) FROM medicines WHERE ")
-}
+
 
 
 

@@ -33,7 +33,7 @@
          input[type="submit"]:hover{
             background-color: #45a049;
         }
-         body{
+        body{
             background-color: #f2f2f2;
         }
         input[placeholder="Username"], input[placeholder="Password"]{
@@ -116,7 +116,7 @@
         </div>
     <?php endif; ?>
 
-    
+
     <center>
         <fieldset>
             <form action="" method="POST">
