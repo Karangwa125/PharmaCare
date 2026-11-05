@@ -1,0 +1,116 @@
+   .center{
+    border: 4px;
+    border: solid rgb(255, 255, 255);
+    background-color: white;
+
+    width: 450px;
+    border-radius: 10px;
+    margin-left: 670px;
+    margin-top: 70px;
+    height: 500px;
+   }
+
+.input{
+    margin-left: 40px;
+    margin-top: 70px;
+    height: 430px;
+    width: 85%;
+
+}
+
+input{
+    height: 29px;
+    width: 310px;
+    padding: 12px;
+    border-radius: 15px;
+    border-color: none;
+    text-decoration: none;
+    border: solid rgb(42, 98, 47);
+    border-width: 1px;
+    margin-left: 17px;
+}
+
+.Login{
+    background-color: rgb(95, 176, 95);
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+    font-weight: bold;
+    width: 325px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    border-color: none;
+}
+
+.H1{
+    
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(11, 85, 11);
+   margin-bottom: 5px;
+}
+.Forg{
+    text-decoration: none;
+    color: rgb(55, 134, 55);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 110px;
+    margin-bottom: -15px;
+}
+
+.Creat{
+    text-decoration: none;
+    border: solid  rgb(49, 111, 197);
+    margin-left: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 37px;
+    width: 120px;
+    color:  rgb(121, 185, 219);
+    margin-bottom: 20px;
+    width: 1000px;
+   
+    
+
+}
+
+.Creat{
+    background-color: white;
+    color: rgb(55, 134, 55);
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+    width: 325px;
+    height: 39px;
+    border-radius: 20px;
+    border: solid rgb(54, 107, 54);
+    border-color: none;
+    margin-left: 20px;
+    border-width: 1px;
+}
+
+body{
+    background-color: rgb(174, 228, 174);
+    
+}
+
+.image{
+    width:40px;
+    height: 20px;
+    margin-left: 20px;
+   margin-bottom: 20px;
+   
+}
+
+.container{
+    display: flex; 
+}
+
+.P1{
+    font-family:  'sans-serif';
+    font-weight: bold;
+    color: rgb(20, 67, 30);
+    font-size: xx-large;
+    font-style: italic;
+}
+.collage{
+    display: flex;
+}
