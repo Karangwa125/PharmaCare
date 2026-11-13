@@ -1,7 +1,5 @@
 <?php
 session_start();
-
-// Access control: no session, no entry
 if (!isset($_SESSION['user_id'])) {
     header('Location: login.php');
     exit;
@@ -109,7 +107,7 @@ try {
 </svg></div>
 
 <div>
-     <a href="logout.php" class="btn-logout">Logout</a>
+     <a href="logout.php" class="btn-logout" onclick="return confirm('Are you sure you want to logout?');">Logout</a>
 </div>
     
 
